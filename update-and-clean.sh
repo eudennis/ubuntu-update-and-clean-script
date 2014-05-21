@@ -1,18 +1,19 @@
 #!/bin/sh
 ####################################
 #
-# @eu_dennis Clean and Update - pt_br
+# Github.com/eudennis
+# Update, Upgrade and Clean
 # v1
 ####################################
 
 echo "##########################################
 ############################
 ##############
-
-
-Fazendo atualização de Repositórios
-
-
+#
+#
+# Repositories update
+#
+#
 ##############
 ############################
 ##########################################"
@@ -24,7 +25,7 @@ echo "##########################################
 ##############
 
 
-Fazendo atualização de aplicativos e distribuição
+Upgrading softwares and anything else
 
 
 ##############
@@ -38,7 +39,7 @@ echo "##########################################
 ##############
 
 
-Fazendo limpeza
+Cleaning cache
 
 
 ##############
@@ -52,7 +53,7 @@ echo "##########################################
 ##############
 
 
-Removendo pacotes desnecessários
+Removing unecessarie packages
 
 
 ##############
@@ -67,7 +68,7 @@ echo "##########################################
 ##############
 
 
-Vamos limpar a lixeira?
+Install Trash Command Line package and clean the Trash
 
 
 ##############
@@ -81,7 +82,7 @@ echo "##########################################
 ##############
 
 
-Pronto!
+Done!
 
 
 ##############
