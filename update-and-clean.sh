@@ -9,11 +9,11 @@
 echo "##########################################
 ############################
 ##############
-#
-#
-# Repositories update
-#
-#
+
+
+Let's start? Please, fill your password for 'sudo' to make the Repositories update
+
+
 ##############
 ############################
 ##########################################"
@@ -25,7 +25,7 @@ echo "##########################################
 ##############
 
 
-Upgrading softwares and anything else
+Now let's upgrade softwares and anything else
 
 
 ##############
@@ -39,7 +39,7 @@ echo "##########################################
 ##############
 
 
-Cleaning cache
+Cleaning cache...
 
 
 ##############
@@ -53,7 +53,7 @@ echo "##########################################
 ##############
 
 
-Removing unecessarie packages
+There is any unnecessary packages? Let's check!
 
 
 ##############
@@ -68,7 +68,7 @@ echo "##########################################
 ##############
 
 
-Install Trash Command Line package and clean the Trash
+It will install trash-cli (Trash Command Line) package and clean the user's trash and root's trash.
 
 
 ##############
@@ -82,7 +82,7 @@ echo "##########################################
 ##############
 
 
-Done!
+Done! We are ready.
 
 
 ##############
