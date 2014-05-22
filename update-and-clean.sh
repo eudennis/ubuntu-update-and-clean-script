@@ -11,7 +11,7 @@ echo "##########################################
 ##############
 
 
-Let's start? Please, fill your password for 'sudo' to make the Repositories update
+Let's start? Please, fill your password for 'sudo' to make the repositories update
 
 
 ##############
@@ -53,7 +53,7 @@ echo "##########################################
 ##############
 
 
-There is any unnecessary packages? Let's check!
+Is there any unnecessary packages? Let's check!
 
 
 ##############
@@ -68,7 +68,7 @@ echo "##########################################
 ##############
 
 
-It will install trash-cli (Trash Command Line) package and clean the user's trash and root's trash.
+It will install trash-cli (Trash Command Line) package and clean the user and root trash.
 
 
 ##############
