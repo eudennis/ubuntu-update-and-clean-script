@@ -11,6 +11,7 @@ Obs.: This should work with any Linux distro.
 <ul>
 	<li>Create/Open the Bash_Aliases file with: <em>sudo gedit .bash_aliases</em></li>
 	<li>Create and alias for the script with: <em>alias update='./update-and-clean.sh'</em> *</li>
-	<li>Done!</li>
+	<li>Give the script permission to run with <em>chmod u+x update-and-clean.sh</em></li>
+	<li>Close and open the terminal to load the .bash_aliases file e run with 'update'</li>
 </ul>
-<p>You can use any alias, like "updateandclean='X'" or put the file in any directory. In this example, my file is on my Home Folder.</p>
+<p>You can use any alias, like "updateandclean='X'" or put the file in any directory. In this example, my file is on my user home folder.</p>
